@@ -1,2 +1,2 @@
 # RDP
-Just some school shit
+Just some school shit for classmates
